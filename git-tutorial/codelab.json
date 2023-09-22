@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-09-22T19:31:59+09:00",
+  "id": "git-tutorial",
+  "duration": 0,
+  "title": "Git チュートリアル",
+  "summary": "Gitの使い方について",
+  "source": "git-tutorial.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://caraquri.com/",
+  "ga": "Google Analytics ID",
+  "url": "git-tutorial"
+}
